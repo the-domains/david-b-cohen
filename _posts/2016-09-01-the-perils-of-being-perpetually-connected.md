@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-09-01T20:28:12.922Z'
+datePublished: '2016-09-01T20:57:55.800Z'
+sourcePath: _posts/2016-09-01-the-perils-of-being-perpetually-connected.md
 author: []
 via: {}
-dateModified: '2016-09-01T20:27:54.862Z'
+dateModified: '2016-09-01T20:57:55.396Z'
 title: ''
 publisher: {}
-description: The Perils of Being Perpetually Connected
+description: The Perils of Being Perpetually Connected - A Sermon by Rabbi David B. Cohen
 starred: false
-sourcePath: _posts/2016-09-01-the-perils-of-being-perpetually-connected.md
 inFeed: true
 hasPage: true
 inNav: false
@@ -18,7 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/184a9dc6-4309-497a-835d-71d8dbac1d03.jpg)
 
-**The Perils of Being Perpetually Connected**
+**The Perils of Being Perpetually Connected - A Sermon by Rabbi David B. Cohen**
 
 Two lifelong buddies have traveled together, apart from their wives, every year for more than half a century of increasingly exotic outings. For their latest adventure, they decide on an ice-fishing trip to the Upper Peninsula. Late one very cold winter night, the two men tromp out onto the ice, loaded with gear. Just as they start to cut a hole for fishing, a voice booms out in the dark, "Don't cut the ice!" Startled, one guy says to the other, "We've had too much to drink." As they bend over to resume, the voice commands a second time, "Don't cut the ice!" Once again they decide their imaginations are playing tricks on them. So they take up the saw, but for the third time the voice thunders, "Don't cut the ice!" At that, one of the men peers up into the darkness and asks, "Is that you, God?" "No," comes the reply, "It's the rink manager."
 
