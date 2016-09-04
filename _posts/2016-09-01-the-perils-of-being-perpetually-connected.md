@@ -1,12 +1,24 @@
 ---
-datePublished: '2016-09-01T20:57:55.800Z'
+datePublished: '2016-09-01T21:07:20.109Z'
 sourcePath: _posts/2016-09-01-the-perils-of-being-perpetually-connected.md
 author: []
 via: {}
-dateModified: '2016-09-01T20:57:55.396Z'
+dateModified: '2016-09-01T21:07:19.658Z'
 title: ''
 publisher: {}
-description: The Perils of Being Perpetually Connected - A Sermon by Rabbi David B. Cohen
+description: >-
+  Two lifelong buddies have traveled together, apart from their wives, every
+  year for more than half a century of increasingly exotic outings. For their
+  latest adventure, they decide on an ice-fishing trip to the Upper Peninsula.
+  Late one very cold winter night, the two men tromp out onto the ice, loaded
+  with gear. Just as they start to cut a hole for fishing, a voice booms out in
+  the dark, “Don’t cut the ice!” Startled, one guy says to the other, “We’ve had
+  too much to drink.” As they bend over to resume, the voice commands a second
+  time, “Don’t cut the ice!” Once again they decide their imaginations are
+  playing tricks on them. So they take up the saw, but for the third time the
+  voice thunders, “Don’t cut the ice!” At that, one of the men peers up into the
+  darkness and asks, “Is that you, God?” “No,” comes the reply, “It’s the rink
+  manager.”
 starred: false
 inFeed: true
 hasPage: true
@@ -17,8 +29,6 @@ _type: Article
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/184a9dc6-4309-497a-835d-71d8dbac1d03.jpg)
-
-**The Perils of Being Perpetually Connected - A Sermon by Rabbi David B. Cohen**
 
 Two lifelong buddies have traveled together, apart from their wives, every year for more than half a century of increasingly exotic outings. For their latest adventure, they decide on an ice-fishing trip to the Upper Peninsula. Late one very cold winter night, the two men tromp out onto the ice, loaded with gear. Just as they start to cut a hole for fishing, a voice booms out in the dark, "Don't cut the ice!" Startled, one guy says to the other, "We've had too much to drink." As they bend over to resume, the voice commands a second time, "Don't cut the ice!" Once again they decide their imaginations are playing tricks on them. So they take up the saw, but for the third time the voice thunders, "Don't cut the ice!" At that, one of the men peers up into the darkness and asks, "Is that you, God?" "No," comes the reply, "It's the rink manager."
 
@@ -34,15 +44,11 @@ Yet, as technology kept its promise to keep us connected to each other, to our w
 
 We've learned that to be perpetually connected is to be perpetually distracted:
 
-An opinion piece in the Wall Street Journal decries the loss of productivity as workers are distracted on average every three minutes by texts and email. With no small irony, this article appears on the web site flanked by an advertisement for the Journal's newest electronic feature: STAY CONNECTED 24/7VIA EMAIL NEWSLETTERS AND ALERTS... FREE REGISTRATION SIGN UP TODAY
-
-How many text messages do you think teenagers send a month? Those of you who made the mistake of not getting unlimited texting plans can probably answer. Teenagers now send an average of 2272 texts a month, twice the amount they sent last year.
-
-It's hard for parents to convince their children to stay away from the screen when we ourselves can't go 20 minutes without checking our smart phones.
-
-Author Stephen King said it was when he realized he was spending "almost half of each day's consciousness" facing screens that he decided to cut back. He said: "I don't think any man or woman on his or her death bed ever wished he or she had spent more time sending instant messages."
-
-And what about the content of those instant messages? Television writer and producer Bill Persky wrote an Op-Ed piece entitled "We're Killing Communication" in which he complained that the new technology had brought him friends he didn't need and updates about their lives be didn't want, such as, "eating leftover lasagna" and "getting a colonoscopy."
+* An opinion piece in the Wall Street Journal decries the loss of productivity as workers are distracted on average every three minutes by texts and email. With no small irony, this article appears on the web site flanked by an advertisement for the Journal's newest electronic feature: STAY CONNECTED 24/7VIA EMAIL NEWSLETTERS AND ALERTS... FREE REGISTRATION SIGN UP TODAY
+* How many text messages do you think teenagers send a month? Those of you who made the mistake of not getting unlimited texting plans can probably answer. Teenagers now send an average of 2272 texts a month, twice the amount they sent last year.
+* It's hard for parents to convince their children to stay away from the screen when we ourselves can't go 20 minutes without checking our smart phones.
+* Author Stephen King said it was when he realized he was spending "almost half of each day's consciousness" facing screens that he decided to cut back. He said: "I don't think any man or woman on his or her death bed ever wished he or she had spent more time sending instant messages."
+* And what about the content of those instant messages? Television writer and producer Bill Persky wrote an Op-Ed piece entitled "We're Killing Communication" in which he complained that the new technology had brought him friends he didn't need and updates about their lives be didn't want, such as, "eating leftover lasagna" and "getting a colonoscopy."
 
 Perpetually connected. Does this describe you? Do you need to have the cell phone at arms reach? Do you automatically check email every five minutes? Do you respond to email, even when you are on vacation, even when the recipient has already gotten a message saying you are on vacation and cant return the call? When you're on vacation, is hotel WIFI access a deal breaker?
 
@@ -71,3 +77,47 @@ Fifteen hundred years later, Gutenberg ushered in a period of transformative tec
 Our era of perpetual connectedness has made reading a complicated business. It began with the hyperlinking of text, when certain words in electronic documents appear in the color blue, indicating that if you click on that work, you'll be instantly transported elsewhere to learn more in depth about that topic. As a research tool, hyperlinks are a Godsend, making quick work of what used to take hours of research. But it also makes reading a less linear experience. Endless diversions appear in the text. What's more, the recent batch of e-readers, like the Kindle or the Ipad increasingly are bundled with software that enables users to surf the web during the course of reading, toggling between sports, weather, news, email, and oh yes, the book they were reading. Why is this a problem? There's a difference between access to information and the experience of it. Technology that encourages multitasking while reading encourages access to the detriment of experience.
 
 For Jews, reading Torah is the way we commune with God, learn from our people's experience, and access their wisdom. the concept of hyperlinking text derives directly from the rabbis' habit of comparing words and phrases from one holy book to the next. Yet, experiencing the life of literature requires uninterrupted attention to narrative. Sports scores and weather maps can only detract from that experience.
+
+Society, has on occasion, resisted technological advances. Author William Powers describes his own recent infatuation with moleskin writing pads, a decidedly low tech way to take notes. In his book, Hamlet's Blackberry, he describes how Shakespeare gave his character a set of tables, which were erasable writing pads on which Hamlet took notes -- in one case to remember to avenge his father's murder most foul. An advance over the wax tablets that had been in vogue for centuries, Hamlet's table was a small notebook of specially coated paper that could be erased and reused. The technology was so popular even Thomas Jefferson owned one. It was portable, and allowed the used to preserve just the information she needed, and nothing more.
+
+Hamlet's tablet undercuts a widely held assumption: that when new technology comes along it immediately supersedes what came before. In fact, some times the opposite occurs. Older technology enjoys a resurgence. When Gutenberg's press made books commonplace, the common man was inspired to write, but lacking a printing press of his own, turned to older technology -- handwriting. Enthusiasm for writing led to the creation of pencils and fountain pens. Witness the more current locovore and slow food movement, both of which eschew modern food production for more traditional methods.
+
+And sometimes, it turns out the older methods are better than the latest technology. A few winters ago, Conde Nast Traveler magazine sent out three reporters to Moscow, one equipped with a blackberry, one with an iphone, and one with a hard copy guidebook. They were given a series of tourist challenges to complete in the frigid metropolis, such as finding a great cheap restaurant, and locating a pharmacy open at midnight. The low-tech contestant won. After the article ran, one reader wrote in: "I have traveled successfully around the world armed with nothing more than a dog eared guidebook and a friendly smile... As any seasoned traveler will tell you, the kindness of strangers can be relied upon anywhere. Just don't be too absorbed in your blackberry to notice."
+
+The promise and problems of technology:
+
+* Plato's retreat from the city of Athens enabled him to balance his public and private lives, so that the outward and inward might be at one."
+* Rabbi Nachman of Bratzlav's practiced hitbodedut, wandering in the field, reflecting, meditating, deliberating, renewing his inner dialogue;
+* Seneca realized that writing was a way to establish an authentic relationship with another;
+* Martin Buber's identified the ideal I-Thou relationship. His aim, like Senecas's, to reclaim a quality of presence in the world.
+* Gutenberg brought the interior experience of reading to the masses;
+* Shakespeare illustrated how the old tools are sometimes the best;
+
+And what about today? How can we overcome technology's persistent tendency to throw our public and private lives into imbalance?
+
+The answer is found in the oldest Jewish practice, Shabbat. Shabbat is the Jewish antidote to civilization. It is the insistence that to be fully human, we have to regularly break our routine and concentrate on the essentials.
+
+* To rediscover Solitude -- establish distance between ourselves and the bustling world.
+* To restore Mindfulness -- pay attention to the world around us.
+* To restore interior life -- pay attention to the world within us.
+* And to restore relationships -- Reclaim a quality of presence in the world.
+
+So try an experiment this week. Pick one day, perhaps even the Jewish Sabbath, and unplug your modem for 24 hours. If you need to, put a message on your email saying you're unavailable for a day. See what happens. Tell people you're taking a facebook fast.
+
+I promise Shabbat will surprise you. Mark Bittman, food columnist for the NYTimes, wrote about a secular Sabbath he took after he checked his email while on an airplane and realized he was a techno addict. He swore off one day a week and was amazed at the transformation. He wrote: " this achievement is unlike any other in my life."
+
+At first, not having access to google to look up needed information will be annoying. Not being able to check email will be an inconvenience. But little by little, you should notice a change in atmosphere. You'll be living in the present, able to just be in one place, doing one thing, and enjoying it.
+
+Remember, even God needed to take a day for Shabbat. The Torah tells us that after six days of creation, shavat vayinafash, God took a break. VaYinafash means, and God took a breath. Pretty food advice for us, as well. Ans Vayinafash means something more. The word nefesh means soul. That God, shavat vayinafash means that in taking a breath, in breaking routine, God's soul was strengthened and enriched.
+
+In this new year, may we be inscribed for a year of spiritual renewal, perhaps by:
+
+* Unplugging just one day a week
+* Rediscovering Solitude
+* Restoring Mindfulness
+* Reinvigorating our interior life
+* And restoring our relationships
+
+That our presence might be a source of enduring blessing to the world.
+
+Amen.
