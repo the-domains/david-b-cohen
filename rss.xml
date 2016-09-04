@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Wedding Hours Before Hurricae Katrina]]></title>
         <description><![CDATA[Wedding Hours Before Hurricae Katrina]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/david-b-cohen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 01 Sep 2016 19:50:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 01 Sep 2016 20:28:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/david-b-cohen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/184a9dc6-4309-497a-835d-71d8dbac1d03.jpg">]]></description>
+            <link>https://thegrid.ai/david-b-cohen/the-perils-of-being-perpetually-connected/index.html</link>
+            <guid isPermaLink="false">4070d11e-04b8-4131-8ab1-2183676ebf7c</guid>
+            <pubDate>Thu, 01 Sep 2016 20:28:12 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/febee11f-6781-49c0-a2eb-3df629ea38b5.jpg">]]></description>
-            <link>undefined9421b067-fc9c-407e-be21-c5df59d1547d/index.html</link>
+            <link>https://thegrid.ai/david-b-cohen/9421b067-fc9c-407e-be21-c5df59d1547d/index.html</link>
             <guid isPermaLink="false">9421b067-fc9c-407e-be21-c5df59d1547d</guid>
             <pubDate>Thu, 01 Sep 2016 19:50:26 GMT</pubDate>
         </item>
